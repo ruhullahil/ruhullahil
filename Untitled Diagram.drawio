@@ -1,9 +1,69 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:131.0) Gecko/20100101 Firefox/131.0" version="26.0.4">
   <diagram name="Page-1" id="dy9t35zf0pSUTtdP75Ow">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="z22SotR3mHXX7BvzYAxg-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z22SotR3mHXX7BvzYAxg-2" value="Font end server for configuration " style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="210" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="z22SotR3mHXX7BvzYAxg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z22SotR3mHXX7BvzYAxg-3" target="z22SotR3mHXX7BvzYAxg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z22SotR3mHXX7BvzYAxg-3" value="&lt;div&gt;In this configuration there have a server related configuration &lt;br&gt;&lt;/div&gt;&lt;div&gt;and module related configuration &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="210" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z22SotR3mHXX7BvzYAxg-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z22SotR3mHXX7BvzYAxg-4" target="z22SotR3mHXX7BvzYAxg-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z22SotR3mHXX7BvzYAxg-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z22SotR3mHXX7BvzYAxg-4" target="z22SotR3mHXX7BvzYAxg-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z22SotR3mHXX7BvzYAxg-4" value="Configuration" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="398" y="230" width="55" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z22SotR3mHXX7BvzYAxg-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z22SotR3mHXX7BvzYAxg-7" target="z22SotR3mHXX7BvzYAxg-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z22SotR3mHXX7BvzYAxg-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z22SotR3mHXX7BvzYAxg-7" target="z22SotR3mHXX7BvzYAxg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z22SotR3mHXX7BvzYAxg-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z22SotR3mHXX7BvzYAxg-7" target="z22SotR3mHXX7BvzYAxg-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z22SotR3mHXX7BvzYAxg-7" value="Module related configuration " style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z22SotR3mHXX7BvzYAxg-9" value="&lt;div&gt;Basic configuration &lt;br&gt;&lt;/div&gt;&lt;div&gt;No extera module only basic community edition&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z22SotR3mHXX7BvzYAxg-11" value="&lt;div&gt;Inter madetate user &lt;br&gt;&lt;/div&gt;&lt;div&gt;some extera modue &lt;br&gt;&lt;/div&gt;&lt;div&gt;added like &lt;br&gt;&lt;/div&gt;&lt;div&gt;approval, some process related configuration &lt;br&gt;&lt;/div&gt;&lt;div&gt;some dashbord configuration ect&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z22SotR3mHXX7BvzYAxg-13" value="&lt;div&gt;Advance &lt;br&gt;&lt;/div&gt;&lt;div&gt;gathering requirement from them tailor made some customization &lt;br&gt;&lt;/div&gt;&lt;div&gt;as thier process&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z22SotR3mHXX7BvzYAxg-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z22SotR3mHXX7BvzYAxg-15" target="z22SotR3mHXX7BvzYAxg-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z22SotR3mHXX7BvzYAxg-15" value="Server related Configuration " style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z22SotR3mHXX7BvzYAxg-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z22SotR3mHXX7BvzYAxg-17" target="z22SotR3mHXX7BvzYAxg-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z22SotR3mHXX7BvzYAxg-17" value="A medum like 4 core meching with multiple data alase " style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z22SotR3mHXX7BvzYAxg-19" value="&lt;div&gt;Niginx &lt;br&gt;&lt;/div&gt;&lt;div&gt;COnfigure &lt;br&gt;&lt;/div&gt;&lt;div&gt;dech database &lt;br&gt;&lt;/div&gt;&lt;div&gt;have on regusest number &lt;br&gt;&lt;/div&gt;&lt;div&gt;after some number &lt;br&gt;&lt;/div&gt;&lt;div&gt;throltoe db&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z22SotR3mHXX7BvzYAxg-21" value="&lt;div&gt;for this type of user&lt;/div&gt;&lt;div&gt;1. almost 2 user allowed &lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1001" y="330" width="180" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
