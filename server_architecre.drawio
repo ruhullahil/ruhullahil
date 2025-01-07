@@ -10,6 +10,18 @@
         <mxCell id="grBL4Wgiot9B0e3Fh1vQ-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="600" y="260" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="grBL4Wgiot9B0e3Fh1vQ-4" value="DB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="grBL4Wgiot9B0e3Fh1vQ-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="grBL4Wgiot9B0e3Fh1vQ-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="450" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="grBL4Wgiot9B0e3Fh1vQ-7" value="Servers" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="460" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
